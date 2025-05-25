@@ -1,1 +1,1 @@
-URL deployment: https://story-app-2-indol.vercel.app/
+URL deployment: https://story-app-dicoding.vercel.app/
